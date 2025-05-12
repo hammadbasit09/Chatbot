@@ -1,7 +1,7 @@
 **Chatbot-for-SQL-databases**
 An SQL Chatbot powered by LLM for generating SQL queries and their graphical analysis using natural language questions.
 
-https://github.com/user-attachments/assets/637c08d9-5b82-471e-9540-09c7114e5e10
+https://github.com/user-attachments/assets/ec7cd6a3-dbf5-47be-b6e9-3222c2fb5814
 
 
 
